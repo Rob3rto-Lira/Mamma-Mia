@@ -5,7 +5,6 @@ function Home() {
   return (
     <>
       <Header></Header>
-      <h1>Hola desde Home</h1>
       <div className='flex-container'>
         <CardPizza
           name='Pizza Napolitana'
